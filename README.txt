@@ -5,20 +5,19 @@
 https://florendo-chuckharold.infy.click
 
 ## GitHub Repository
-
-PASTE-YOUR-GITHUB-REPOSITORY-URL-HERE
+https://github.com/chuckharold/finalsfolder
 
 ## Database
 
-Database schema: database/schema.sql
+Database schema: database/students.sql
 
 ## Admin Test Credentials
 
 Login URL: https://florendo-chuckharold.infy.click/login.php
 
-Email: YOUR-TEST-EMAIL
+Email: awanbagasmi@gmail.com
 
-Password: YOUR-TEST-ACCOUNT-PASSWORD
+Password: mahalnaangbigas61
 
 ## Setup Instructions
 
