@@ -57,7 +57,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <button type="submit" style="width:100%;">Log In</button>
         </form>
-        <p style="font-size:13px;color:#64748b;">For school project demonstration only.</p>
     </div>
 </div>
 </body>
